@@ -1,0 +1,4 @@
+interface:
+  display_name: "基金从业培训学习助手"
+  short_description: "辅助本人观看培训视频、确认绿勾后自动切换，并提供学习辅导；测验自行作答"
+  default_prompt: "使用 $fund-training-assistant 辅助我学习已登录的基金从业培训课程，按我指定的范围播放、核对进度并自动切换视频，测验由我自行作答和提交。"
