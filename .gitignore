@@ -1,0 +1,12 @@
+dist/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.log
+*.har
+cookies*
+storage-state*
+*.zip
